@@ -1,0 +1,102 @@
+week 1 : main(int argc,char *argv[]) {}, fp=fopen("filename","r/w/a"), fclose(fp);
+E.c tinh e mu x;
+sde.c giai pt bac 2;
+sentences in 10 cau voi cac thanh phan cau ngau nhien;
+
+week 2 : c=fgetc(fin), fputc(c,fout);
+mahoa.c ma hoa file; (luu y su dung fseek de viet de len file dang doc)
+giaima.c giai ma file;
+cat.c doc file -p de chia trang;	
+lab1.c char read write;
+sent.c chu hoa thanh chu thuong va nguoc lai;
+statsfile.c dem so lan xuat hien cua chu cai ko phan biet chu hoa chu thuong trong file bang cach sap xep;
+
+week 3 : fgets(buff,MAX_LEN,fin), fputs(buff,fout);
+1char.c them vao cuoi file dong cac ki tu dau tien cua cac dong;
+bangdiem.c doc file table danh sach sinh vien va them cot diem cho sinh vien;
+compare.c so sanh 2 file in dong nao khac nhau (dong so may);
+filter.c thay the nhung tu inappropriate; (luu y kha phuc tap)
+line.c them vao dau dong trong file so ki tu cua dong (viet vao file moi);
+merge.c gop 2 file lai dong theo dong vao file thu 3;
+space.c moi lan xuong dong thi cach dong;
+
+week 4 : (binary file .dat) irc=fread(buff,sizeof(char),MAX_LEN,fin), fwrite(buff,sizeof(char),irc,fout), p=(int*)malloc(n*sizeof(int))  --> p[n] (khai bao bo nho dong), free(p);
+blockcopy.c copy file theo block (fread,fwrite);
+copy-multimode.c copy file theo 3 cach (ki tu fgetc, dong fgets, block);
+dynamicreversearray.c in nguoc array;
+grade.c them diem cho sv su dung block;
+my_strcat.c ghep 2 string thanh 1 string;
+phone.c doc file .dat chua danh ba ten,sdt,email; 
+substr.c lay sub-string tu 1 string;
+
+week 5 : fseek(fp,offset,SEEK_SET/SEEK_CUR/SEEK_END), long ftell(fp), rewind(fp);
+dymemall.c doc file tu vi tri bat ki den vi tri bat ki, chinh sua 1 data trong do;
+fheader.c readheader.c them vao dau file size,author,day -> header va doc header;
+filemerge.c ghep file;
+filesplit.c chia file;
+fileread.c doc file;
+num.c tinh tong so;
+phone.c doc in file danh ba;
+PhoneDB.c menu dien thoai 1.lay db tu text, 2.lay du lieu tu db, 3.in toan bo, 4.tim theo model;
+tudien.c doc tu dien;
+(luu y khi doc file %[^\t]%*c gap dau tab thi ket thuc doc)
+
+week 6 : Linked List;
+PhoneDBlink.c menu PhoneDB su dung linked list;
+
+week 7 : Linked List (cont.);
+LinkedListV3+ (final version);
+SplitList chia list;
+studentList List theo thu tu diem xay dung thu tu tu ham add_student;
+
+week 8 : Double Linked List;
+PhoneDBDoublyL.c PhoneDB menu su dung DLL; (final version)
+gradeDL.c lay DB tu file text cho vao 2 list dua theo diem;
+
+week 9 : Stack;
+StackaArray.h;
+StackStruct.h;
+StackLinkedList.h;
+convert.c doi so thap phan sang nhi phan;
+parentthesis.c check cac ngoac co theo cap;
+polish.c chuyen tu infix -> postfix expression;
+sum.c tinh tong su dung stack;
+subtract.c tinh hieu su dung stack;
+undo.c undo;
+
+week 10 : Queue
+QueueLinkedList.h;
+QueueStruct.h;
+bank.c tinh thoi gian cho cua khach vao ngan hang;
+calpolish.c tinh postfix expression;
+os.c gia lap he dieu hanh;
+planeticket.c dat ve may bay;
+
+week 11 : Search
+selfOrgSearch.h move to front after search;
+selfOrgSeqSearch.h transpose after search;
+countSearch.h count every time search and soft by count decrease;
+binarySearch.h search chia nho thanh 2 phan; 
+look.c tim kiem trong tu dien nhap vao 1 phan cua tu in ra ca tu;
+PhoneDB.c find phone using new search;
+PhoneDBList.c find phone and update using new search;
+test.c test binary search;
+
+week 12 : Tree
+tree.h cay thong thuong;
+test.c test cay;
+listVerify.c so sanh 2 struct array;
+debug.c test gdb  to debug;
+
+week 13 : Binary Search Tree (BST)
+binarySearchTree.h cay nhi phan tim kiem;
+expression.c cal expression with tree; (chua hoan thanh)
+phoneaddress nhap danh ba vao cay, in ra, tim kiem;
+list.c nhap ds ho ten hoc sinh vao cay theo thu tu ten;
+tour.c xay dung giai dau theo diem nhap vao tu dau; (ham buildTree xay dung BST tu so la cho truoc)
+treegame.h xay dung giai dau tu 16 doi lay tu file thang ngau nhien cua moi tran; (can cai tien)
+
+week 14 : Sort
+heapsort.c
+quicksort.c
+sortemail.c su dung heapsort va quicksort voi string

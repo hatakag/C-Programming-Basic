@@ -1,0 +1,20 @@
+LG K10----8GB----5.3"----2990000 VND
+LG X Power----16GB----5.3"----3990000 VND
+OPPO Neo 7----16GB----5.0"----2990000 VND
+OPPO Neo 7s----16GB----5.0"----2990000 VND
+OPPO A39 (Neo 9s)----32GB----5.2"----4290000 VND
+OPPO A37 (Neo 9)----16GB----5.0"----3690000 VND
+OPPO F1s----32GB----5.5"----5990000 VND
+OPPO F1s [17]----64GB----5.5"----6990000 VND
+Samsung Galaxy S7 Edge----32GB----5.5"----16990000 VND
+Samsung Galaxy A9 Pro----32GB----6.0"----10990000 VND
+Samsung Galaxy J7----16GB----5.5"----4520000 VND
+Samsung Galaxy A7----32GB----5.7"----10990000 VND
+Samsung Galaxy A5----32GB----5.2"----8990000 VND
+Samsung Galaxy Note 5----32GB----5.7"----12490000 VND
+iPhone 7 Plus----128GB----5.5"----25190000 VND
+iPhone 7----256GB----4.7"----24590000 VND
+iPhone 6s----128GB----4.7"----18890000 VND
+iPhone SE----16GB----4.0"----8990000 VND
+iPhone 6s----32GB----4.7"----15990000 VND
+iPhone 7----32GB----4.7"----18790000 VND

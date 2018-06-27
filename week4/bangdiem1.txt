@@ -1,0 +1,4 @@
+stt  ma so sv		ho va ten		so dt
+1    20153363 		bui cong thanh		0123456789
+2    20153333 		nguyen van thanh	0123789456
+3    20156666		tran thanh		0456789123
