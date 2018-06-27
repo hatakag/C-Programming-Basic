@@ -1,5 +1,0 @@
-#include "LinkedList.h"
-
-int movetofront(elementtype x,node** L) {
-  
-}
